@@ -5,7 +5,7 @@ Qt Image cropper
 Utility with GUI, that allows you cut regions of interest from images, replicate  them with adding some variations and save the resulting images to files. 
 This can be useful for creating datsets for machine learning tasks in computer vision: training convolution neural networks, haar cascades, etc.
 
-BUILD process is very straightforward: double click on SampleMaker.pro file and build project in Qt Creator. NOTE: you mast have installed Qt libraries and Qt creator. 
+BUILD process is very straightforward: double click on SampleMaker.pro file and build project in Qt Creator. NOTE: you must have installed Qt libraries and Qt creator. 
 
 
 HOW TO USE THIS TOOL?
